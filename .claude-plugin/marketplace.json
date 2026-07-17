@@ -8,7 +8,7 @@
     {
       "name": "operatics-sap-mastery",
       "source": "./plugins/operatics-sap-mastery",
-      "description": "Second SAP/ABAP-Skills für Arbeit mit S/4HANA-Systemen via SAP MCP Tools (ABAP-Code, Tabellenabfragen, Workflow, Background Jobs, Application Log, abapGit, SoD-Audits, User-Stammdaten, Transport-Binaries, S/4-Sandbox-Setup)."
+      "description": "Marketplace für SAP/ABAP-Skills und Konnektoren für die Arbeit mit S/4HANA-Systemen via SAP MCP Tools (ABAP-Code, Tabellenabfragen, Workflow, Background Jobs, Application Log, abapGit, SoD-Audits, User-Stammdaten, Transport-Binaries, S/4-Sandbox-Setup)."
     }
   ]
 }
