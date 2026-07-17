@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "remote-server": {
+      "type": "http",
+      "url": "https://remotemcp-s4s.fly.dev/mcp"
+    }
+  }
+}
