@@ -1,9 +1,0 @@
-{
-  "name": "demo-plugin",
-  "version": "0.1.0",
-  "description": "Demo-Plugin mit einem einfachen Beispiel-Skill als Vorlage für weitere Skills.",
-  "author": {
-    "name": "Thorsten Franz",
-    "email": "thorstenster.franz@gmail.com"
-  }
-}

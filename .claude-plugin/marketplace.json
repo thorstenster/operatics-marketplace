@@ -6,11 +6,6 @@
   },
   "plugins": [
     {
-      "name": "demo-plugin",
-      "source": "./plugins/demo-plugin",
-      "description": "Demo-Plugin mit einem einfachen Beispiel-Skill als Vorlage."
-    },
-    {
       "name": "operatics-sap-mastery",
       "source": "./plugins/operatics-sap-mastery",
       "description": "SAP/ABAP-Skills für Arbeit mit S/4HANA-Systemen via SAP MCP Tools (ABAP-Code, Tabellenabfragen, Workflow, Background Jobs, Application Log, abapGit, SoD-Audits, User-Stammdaten, Transport-Binaries, S/4-Sandbox-Setup)."
