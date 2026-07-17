@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "operatics xrAI": {
-      "url": "https://remotemcp-s4s.fly.dev/mcp",
-      "type": "http"
-    }
-  }
-}
