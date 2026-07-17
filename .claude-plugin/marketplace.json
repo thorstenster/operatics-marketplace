@@ -1,0 +1,14 @@
+{
+  "name": "operatics-marketplace",
+  "owner": {
+    "name": "Thorsten Franz",
+    "email": "thorstenster.franz@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "demo-plugin",
+      "source": "./plugins/demo-plugin",
+      "description": "Demo-Plugin mit einem einfachen Beispiel-Skill als Vorlage."
+    }
+  ]
+}
