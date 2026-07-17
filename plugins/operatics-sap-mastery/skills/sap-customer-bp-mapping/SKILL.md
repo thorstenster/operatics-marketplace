@@ -1,6 +1,7 @@
 ---
 name: sap-customer-bp-mapping
-description: Use this skill whenever a Debitor (KUNNR) or Kreditor (LIFNR) muss einem Geschäftspartner (BU_PARTNER) zugeordnet werden, oder umgekehrt. WICHTIG: KUNNR und BU_PARTNER sind NICHT automatisch identisch, auch wenn die Nummern zufällig gleich aussehen — sie leben in getrennten Nummernkreisen und müssen über die Customer-Vendor-Integration (CVI) verknüpft werden. Trigger bei Fragen wie "wie heißt der Kunde/Geschäftspartner zu Debitor X", "welcher Geschäftspartner steckt hinter Kreditor Y", "löse KUNNR in BU_PARTNER auf" oder immer dann, wenn ein KUNNR/LIFNR aus einem Beleg (VBAK, EKKO, ...) in einen lesbaren Partnernamen übersetzt werden soll.
+description: Use this skill whenever a Debitor (KUNNR) or Kreditor (LIFNR) muss einem Geschäftspartner (BU_PARTNER) zugeordnet werden, oder umgekehrt. 
+WICHTIG: KUNNR und BU_PARTNER sind NICHT automatisch identisch, auch wenn die Nummern zufällig gleich aussehen — sie leben in getrennten Nummernkreisen und müssen über die Customer-Vendor-Integration (CVI) verknüpft werden. Trigger bei Fragen wie "wie heißt der Kunde/Geschäftspartner zu Debitor X", "welcher Geschäftspartner steckt hinter Kreditor Y", "löse KUNNR in BU_PARTNER auf" oder immer dann, wenn ein KUNNR/LIFNR aus einem Beleg (VBAK, EKKO, ...) in einen lesbaren Partnernamen übersetzt werden soll.
 ---
 
 # Debitor/Kreditor ↔ Geschäftspartner (CVI-Verknüpfung)
